@@ -1,0 +1,5 @@
+﻿  FeasabilityDemo.cpp
+C:\Users\Vicky\source\repos\FeasabilityDemo\FeasabilityDemo\FeasabilityDemo.cpp(279,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Vicky\source\repos\FeasabilityDemo\FeasabilityDemo\FeasabilityDemo.cpp(319,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vicky\source\repos\FeasabilityDemo\FeasabilityDemo\FeasabilityDemo.cpp(320,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FeasabilityDemo.vcxproj -> C:\Users\Vicky\source\repos\FeasabilityDemo\Debug\FeasabilityDemo.exe
